@@ -1,0 +1,21 @@
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bor{
+    width: 280px;
+    height: 320px;
+    border: 1px solid black;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-40%,-50%);
+}
+.form{
+    padding-left: 20px;
+}
+button{
+    color: white;
+    background-color: rgb(11, 141, 228);
+}
